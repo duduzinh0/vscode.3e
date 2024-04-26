@@ -1,1 +1,1 @@
-# vscode.3e
+# VSCode3E
